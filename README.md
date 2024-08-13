@@ -10,7 +10,7 @@ This project is done by 4 members:<br>
  Phone Number: 9867995311<br>
  Roll no.: PUR079BCT051<br>
  
-3)Simron Khadka<br>
+3)Simron Khadka(Leader) <br>
  github ID: simronkhadka<br>
  Phone Number : 9846909812<br>
  Roll no.: PUR079BCT082<br>
