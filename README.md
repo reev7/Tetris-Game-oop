@@ -6,6 +6,8 @@ This project is done by 4 members:<br>
  Roll no.: PUR079BCT062<br>
 2)Pranika Angdembe Limbu<br>
  github ID: pranikalimbu<br>
+ Phone Number: 9867995311<br>
+ Roll no.: PUR079BCT051<br>
 3)Simron Khadka<br>
  github ID: simronkhadka<br>
  Phone Number : 9846909812<br>
